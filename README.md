@@ -65,31 +65,31 @@
 
   [download](https://atom.io/)
 
-  plugins
+  + plugins
 
-  + angularjs
-  + atom-beautify
-  + autoclose-html
-  + autocomplete-paths
-  + busy-signal
-  + color-picker
-  + docblockr
-  + emmet
-  + expose
-  + file-icons
-  + git-plus
-  + highlight-line
-  + highlight-selected
-  + intentions
-  + linter
-  + linter-jshint
-  + linter-sass-lint
-  + linter-ui-default
-  + minimap
-  + minimap-highlight-selected
-  + pigments
-  + project-manager
+    + angularjs
+    + atom-beautify
+    + autoclose-html
+    + autocomplete-paths
+    + busy-signal
+    + color-picker
+    + docblockr
+    + emmet
+    + expose
+    + file-icons
+    + git-plus
+    + highlight-line
+    + highlight-selected
+    + intentions
+    + linter
+    + linter-jshint
+    + linter-sass-lint
+    + linter-ui-default
+    + minimap
+    + minimap-highlight-selected
+    + pigments
+    + project-manager
 
-  theme
-  + atom-material-syntax
-  + atom-material-ui
+  + theme
+    + atom-material-syntax
+    + atom-material-ui
