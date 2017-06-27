@@ -73,6 +73,12 @@
 
   [download](https://atom.io/)
 
+  #### Change Apm registry
+
+    the original Apm registry is blocked in China, which caused the plugins installation error. Need to change the registry url to fix it.
+
+    go to ~/.atom/.apmrc(new .apmrc file if not exists), add `registry = https://registry.npm.taobao.org`
+
   + plugins
 
     + angularjs
